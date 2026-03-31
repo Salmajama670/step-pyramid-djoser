@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Egyptian Pyramid Project</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f0e6;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .container {
+      background: white;
+      max-width: 800px;
+      margin: auto;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.15);
+    }
+
+    h1 {
+      color: #8b6b00;
+    }
+
+    img {
+      width: 100%;
+      border-radius: 10px;
+      margin-top: 15px;
+    }
+
+    .qr {
+      margin-top: 20px;
+      padding: 15px;
+      border: 2px dashed #8b6b00;
+      display: inline-block;
+    }
+
+    ul {
+      text-align: left;
+      display: inline-block;
+      margin-top: 10px;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>🏺 Egyptian Pyramid Project</h1>
+
+    <p><b>Scale:</b> 1 cm = 5 meters</p>
+    <p><b>Base:</b> 120 meters (24 cm)</p>
+
+    <h2>Step Pyramid Model</h2>
+
+    <!-- Insert the AI-generated pyramid image here -->
+    <img src="pyramid.png" alt="Step Pyramid of Djoser">
+
+    <h2>Measurements</h2>
+    <ul>
+      <li>Base layer: 120 m</li>
+      <li>Layer 2: 100 m</li>
+      <li>Layer 3: 80 m</li>
+      <li>Layer 4: 60 m</li>
+      <li>Layer 5: 40 m</li>
+      <li>Top layer: 20 m</li>
+    </ul>
+
+    <h2>QR Code</h2>
+    <div class="qr">
+      <p>Scan to open this project</p>
+      <!-- Insert your QR code image here -->
+      <img src="qr.png" alt="QR Code" style="width:150px;">
+    </div>
+
+    <h2>Conclusion</h2>
+    <p>
+      This project represents the Step Pyramid of Djoser, one of the earliest monumental stone structures in Ancient Egypt, built using a stepped architectural design.
+    </p>
+
+  </div>
+
+</body>
+</html>
