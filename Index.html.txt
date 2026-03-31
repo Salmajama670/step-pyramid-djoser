@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Step Pyramid of Djoser</title>
+
+<style>
+body {
+  font-family: Arial;
+  background: #f5efe3;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+  color: #8b6b00;
+}
+
+img {
+  width: 100%;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>🏺 Step Pyramid of Djoser</h1>
+
+<p>An Ancient Egyptian themed math project with a scaled pyramid model.</p>
+
+<h2>Pyramid Model</h2>
+<img src="pyramid.png" alt="Pyramid">
+
+<h2>Measurements</h2>
+<ul style="text-align:left; display:inline-block;">
+<li>Base: 120 m</li>
+<li>Layer 2: 100 m</li>
+<li>Layer 3: 80 m</li>
+<li>Layer 4: 60 m</li>
+<li>Layer 5: 40 m</li>
+<li>Top: 20 m</li>
+</ul>
+
+</div>
+
+</body>
+</html>
